@@ -1,0 +1,23 @@
+[
+  {
+    "id": "82d59dec-f90e-42fd-aafe-eabd482ee6a5",
+    "user_id": "cd7a9fd2-0c1d-4f70-abb9-57553a4b737a",
+    "title": "Blog pertama saya",
+    "category": "personal",
+    "body": "maaf ya kalo jelek, ini blog pertama saya"
+  },
+  {
+    "id": "640c16d3-0866-49cc-8e38-e1834b9bcd95",
+    "user_id": "cd7a9fd2-0c1d-4f70-abb9-57553a4b737a",
+    "title": "Ini Judul Baru ya",
+    "category": "category baru di edit",
+    "body": "bodynya samain aja"
+  },
+  {
+    "id": "2148e5a0-7e65-4556-81cf-4b7c0a3e4478",
+    "user_id": "cd7a9fd2-0c1d-4f70-abb9-57553a4b737a",
+    "title": "Blog ketiga saya",
+    "category": "web programming unpas",
+    "body": "udah mulai bagus nih"
+  }
+]
