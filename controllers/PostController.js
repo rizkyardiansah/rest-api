@@ -10,7 +10,7 @@ class PostController {
                 return res.status(500).json(posts)
             }
     
-            return res.json({success: true, data: posts})
+            return res.status(200).json({success: true, data: posts})
         } catch (error) {
             return res.status(500).json({success: false, message: error.message})
         }
@@ -22,7 +22,7 @@ class PostController {
         
         //cek apakah data lengkap
         if (!title || !category || !body) {
-            res.status(400).json({success: false, message: 'Data is not complete'})
+            return res.status(400).json({success: false, message: 'Data is not complete'})
         }
 
         const post = {

@@ -19,5 +19,65 @@
     "title": "Blog ketiga saya",
     "category": "web programming unpas",
     "body": "udah mulai bagus nih"
+  },
+  {
+    "id": "2ce06e9f-6e22-4906-a781-54f17108ca1e",
+    "user_id": "64e68cc4-9e8d-47d0-b02c-27ff9279d937",
+    "title": "Judul Coba Post",
+    "category": "Coba Post",
+    "body": "coba body post"
+  },
+  {
+    "id": "39bc6596-081b-4030-8933-cbf509324535",
+    "user_id": "64e68cc4-9e8d-47d0-b02c-27ff9279d937",
+    "title": "Judul Coba Post",
+    "category": "Coba Post",
+    "body": "coba body post"
+  },
+  {
+    "id": "a3110ede-c9c7-4a94-b9ba-a12679f1bd51",
+    "user_id": "64e68cc4-9e8d-47d0-b02c-27ff9279d937",
+    "title": "Judul Coba Post",
+    "category": "Coba Post",
+    "body": "coba body post"
+  },
+  {
+    "id": "1014cd2b-4bf0-461a-8ed9-f55eb3c6c883",
+    "user_id": "64e68cc4-9e8d-47d0-b02c-27ff9279d937",
+    "title": "Judul Coba Post",
+    "category": "Coba Post",
+    "body": "coba body post"
+  },
+  {
+    "id": "6acecc8a-37d8-4347-9f90-37c7361b80d0",
+    "user_id": "64e68cc4-9e8d-47d0-b02c-27ff9279d937",
+    "title": "Judul Coba Post",
+    "category": "Coba Post",
+    "body": "coba body post"
+  },
+  {
+    "id": "8adf784f-51fb-48c1-97a3-2a93437a534f",
+    "user_id": "64e68cc4-9e8d-47d0-b02c-27ff9279d937",
+    "title": "Judul Coba Post",
+    "category": "Coba Post",
+    "body": "coba body post"
+  },
+  {
+    "id": "cfdb255f-e09e-4a04-9118-6504920cfe62",
+    "user_id": "64e68cc4-9e8d-47d0-b02c-27ff9279d937",
+    "category": "Coba Post",
+    "body": "coba body post"
+  },
+  {
+    "id": "020cfe38-c81e-4110-91c1-2115028d92f8",
+    "user_id": "64e68cc4-9e8d-47d0-b02c-27ff9279d937",
+    "category": "Coba Post",
+    "body": "coba body post"
+  },
+  {
+    "id": "17588bf8-5fd4-4854-a9e8-c9fea77342f6",
+    "user_id": "64e68cc4-9e8d-47d0-b02c-27ff9279d937",
+    "category": "Coba Post",
+    "body": "coba body post"
   }
 ]
